@@ -20,4 +20,9 @@ voir également : https://arxiv.org/pdf/1505.05192.pdf
 6. Évaluer les performances relativement aux modèles entraînés via les autres
 tâches prétextes sur CIFAR10 et un autre jeu de données de votre choix
 
+[![Comparaison des scores en fonction des données-CIFAR10](https://github.com/MathieuRodri/TD5-self-supervised-learning/blob/main/01.png)
+[![Comparaison des scores en fonction des données-IMAGENET10](https://github.com/MathieuRodri/TD5-self-supervised-learning/blob/main/02.png)
+[![Comparaison des scores en fonction des jeux de données](https://github.com/MathieuRodri/TD5-self-supervised-learning/blob/main/03.png)
+[![Comparaison des scores  de la méthode implémenté ”PatchPosition”](https://github.com/MathieuRodri/TD5-self-supervised-learning/blob/main/04.png)
+
 ### RODRIGUES Mathieu
